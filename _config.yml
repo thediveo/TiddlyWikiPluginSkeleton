@@ -1,0 +1,8 @@
+title: Tiddlywiki Plugin Skeleton
+description: Develop TiddlyWiki5 Plugins using ThirdFlow.
+google_analytics:
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
