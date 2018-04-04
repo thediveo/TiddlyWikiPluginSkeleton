@@ -2,7 +2,8 @@
 
 Use this plugin skeleton to easily develop TiddlyWiki5 plugins using the
 _[ThirdFlow](https://github.com/TheDiveO/ThirdFlow)_ plugin. For an easy
-introduction, you may want to watch the [demo video](https://youtu.be/BFE6PFZ_uWQ):
+introduction, you may want to watch our
+[demo video](https://youtu.be/BFE6PFZ_uWQ):
 
 {% include ytplayer.html id="BFE6PFZ_uWQ" %}
 
