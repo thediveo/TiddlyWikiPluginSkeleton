@@ -4,7 +4,7 @@ google_analytics:
 show_downloads: true
 theme: jekyll-theme-minimal
 github:
-  zip_url: https://github.com/TheDiveO/TiddlyWikiPluginSkeleton/archive/master.zip
-  tar_url: https://github.com/TheDiveO/TiddlyWikiPluginSkeleton/archive/master.tar.gz
+  zip_url: https://github.com/TheDiveO/TiddlyWikiPluginSkeleton/zipball/master
+  tar_url: https://github.com/TheDiveO/TiddlyWikiPluginSkeleton/tarball/master
 gems:
   - jekyll-mentions
