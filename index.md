@@ -7,7 +7,7 @@ introduction, you may want to watch the [demo video](https://youtu.be/BFE6PFZ_uW
 {% include ytplayer.html id="BFE6PFZ_uWQ" %}
 
 
-# How To (Set Up and Release)
+# How To (Set Up, Develop, Release)
 
 1. Set Up...
 
