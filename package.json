@@ -1,6 +1,6 @@
 {
   "name": "twpluginskeleton",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "You",
   "description": "TiddlyWiki Plugin Skeleton",
   "homepage": "...",
@@ -23,8 +23,8 @@
     "release": "tiddlywiki editions/release --verbose --build release"
   },
   "dependencies": {
-    "tiddlywiki": ">=5.1.11",
-    "tw5-thirdflow": ">=1.2.0"
+    "tiddlywiki": ">=5.1.20",
+    "tw5-thirdflow": ">=1.2.10"
   },
   "devDependencies": {},
   "bundleDependencies": [],
